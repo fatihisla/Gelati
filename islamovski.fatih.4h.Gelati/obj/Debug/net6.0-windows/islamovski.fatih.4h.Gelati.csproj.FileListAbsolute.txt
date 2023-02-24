@@ -1,0 +1,5 @@
+C:\Users\PC05\Desktop\islamovski.fatih.4h.Gelati\islamovski.fatih.4h.Gelati\obj\Debug\net6.0-windows\islamovski.fatih.4h.Gelati.csproj.AssemblyReference.cache
+C:\Users\PC05\Desktop\islamovski.fatih.4h.Gelati\islamovski.fatih.4h.Gelati\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC05\Desktop\islamovski.fatih.4h.Gelati\islamovski.fatih.4h.Gelati\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC05\Desktop\islamovski.fatih.4h.Gelati\islamovski.fatih.4h.Gelati\obj\Debug\net6.0-windows\islamovski.fatih.4h.Gelati_MarkupCompile.cache
+C:\Users\PC05\Desktop\islamovski.fatih.4h.Gelati\islamovski.fatih.4h.Gelati\obj\Debug\net6.0-windows\islamovski.fatih.4h.Gelati_MarkupCompile.lref
